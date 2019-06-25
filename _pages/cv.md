@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+Link
+======
+[Download my CV here](https://songtianbo.github.io/files/tianbocv.pdf)
+
 Education
 ======
 * B.S of Network Engineering, University of Electronic Science and Technology of China, 2014
