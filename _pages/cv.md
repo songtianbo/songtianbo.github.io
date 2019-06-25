@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
+* B.S of Network Engineering, University of Electronic Science and Technology of China, 2014
+* B.S of Electrical Engineering, Eastern New Mexico University, 2014
+* M.S. of Computer Engineering (CS Concentration), Arizona State University, 2020(expected)
+* Ph.D in dream
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2014: Teaching Assistant
+  * Eastern New Mexico University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Java
+  * database SQL optimization
+  * JSON big Data analyzation
+  * Spring Frame
+* Digital circuits design
+* Python
+* MATLAB 
+* Tenseorflow
+* C++
+* JavaScript
+* Mathematica
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* co-founder of Beijing Futuretech co.ltd
