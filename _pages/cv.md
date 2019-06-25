@@ -35,4 +35,4 @@ Skills
   
 Service and leadership
 ======
-* co-founder of Beijing Futuretech co.ltd
+* Co-founder of Beijing Futuretech co.ltd
