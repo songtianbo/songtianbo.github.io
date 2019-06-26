@@ -2,9 +2,9 @@
 title: "Tutorial teaching in EE310 Digital Circuit Design"
 collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-EE310 Digital Circuit Design
+permalink: /teaching/2019-spring-EE310 Digital Circuit Design
 venue: "Eastern New Mexico University"
-date: 2014
+date: 2014-01-15
 location: "Portales, NM"
 ---
 
