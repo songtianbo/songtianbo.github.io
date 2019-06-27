@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I just start my academic career as a MS CE(CS) student in ASU , hope I could full these pages with my hard working achievement in scientific research.
+I just start my academic career as a MS CE(CS) student in ASU , hope I could full these pages with my hard working achievement.
 
 Past
 ======
