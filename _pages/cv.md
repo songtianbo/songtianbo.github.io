@@ -20,6 +20,7 @@ Education
 * B.S of Electrical Engineering, Eastern New Mexico University, 2014
 * M.S. of Computer Engineering (CS Concentration), Arizona State University, 2020(expected)
 * Ph.D in dream
+
 ======
 * Spring 2014: Teaching Assistant
   * Eastern New Mexico University
