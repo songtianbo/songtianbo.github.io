@@ -20,4 +20,4 @@ I left the company and turned to be a programmer at 2017, and then transfer myse
 
 Focus
 ======
-I am always attracted by the beauty of robotics and control system. And I also a good trader at stock market who can always maintain an average 12% gain in every 5 trades ♪(^∇^*). My research of interests includes robotic, control system, imaging with deep learning, computer vision and machine learning. 
+I am always attracted by the beauty of robotics and control system. And I also a good trader at stock market who can always maintain an average 12% gain in every 5 trades ♪(^∇^*). My research of interests includes robotic, control system, computer vision and machine learning. 
