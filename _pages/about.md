@@ -16,7 +16,7 @@ Before I came to ASU, I got my B.Eng. degree from University of Electronic Scien
 
 After gratuated and few months working at Honeywell(Chengdu), I found the Beijing FutureTech co.ltd with my friends, we create our own products in IOT area, and undertake several communities and office buildings' Weak electrical construction projects in Beijing, Chongqing and Chengdu.
 
-I left the company and turned to be a programmer at 2017, and then transfer myself to MS CE(CS) student at ASU at 2018, my life is always has ups and downs like a novel, and I will always swim through it.
+I left the company and turned to be a programmer at 2017, and then transfer myself to a student at 2018, my life always has ups and downs like a novel, and I will always swim through it.
 
 Focus
 ======
