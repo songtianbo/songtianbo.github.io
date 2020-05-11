@@ -6,7 +6,7 @@ excerpt: 'This paper is left for future work.'
 date: 2020-05-01
 venue: 'future work'
 paperurl: 'http://paper1.pdf'
-citation: 'SEWARM, multi-agent, obstacle avoidence'
+citation: 'SWARM, multi-agent, obstacle avoidence'
 ---
 Research 
 ASU, SWARM robotic of obstacle avoidance						
