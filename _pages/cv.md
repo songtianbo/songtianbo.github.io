@@ -34,11 +34,9 @@ Skills
 * Digital circuits design
 * Python
 * MATLAB 
-* Tenseorflow
-* C++
 * JavaScript
 * Mathematica
- 
+* Tenseorflow
 Professional Experience
 ======
 * CHINA HI-TECH GROUP CORPORATION   11/2016-12/2017
