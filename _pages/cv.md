@@ -53,15 +53,15 @@ Professional Experience
 Research
 ======
 *ASU, SWARM robotic of obstacle avoidance						
-*	Built up a SWARM based obstacle avoidance system in dynamic environment
+	*Built up a SWARM based obstacle avoidance system in dynamic environment
 *ASU, SWARM robotic of obstacle avoidance						
-*	Built up a SWARM based target tracking system in ROS Gazebo
+	*Built up a SWARM based target tracking system in ROS Gazebo
 *ASU, Dynamic Emotion Replacement by Face Recognition and Camera tracking						
-*	Built up an emotion dynamic face recognition and tracking system such that the face could be mosaiced with emoji to realized privacy protection in video stream.
+  *Built up an emotion dynamic face recognition and tracking system such that the face could be mosaiced with emoji to realized privacy protection in video stream.
 *ASU, Robot movement planning(snake arena)								 
-*	Designed a two-agent game with Genetic Algorithm, where the agents are able to learn how to fight with each other along the game
+  *Designed a two-agent game with Genetic Algorithm, where the agents are able to learn how to fight with each other along the game
 *ENMU, Dynamic Timing Password Lock					
-*	An Electronic password lock which password depend on digit number and time frame.  
+  *An Electronic password lock which password depend on digit number and time frame.  
 
 Service and leadership
 ======
